@@ -1,0 +1,79 @@
+            body
+            {
+                background-color: #2f2fa2;
+            }
+            
+            h1
+            {
+                color: Red;
+                font: italic;
+                /* background-color: black; */
+                text-align: center;
+            }
+
+            p
+            {
+                color: salmon;
+                font: bold;
+                /* background-color:green; */
+                text-align: center;
+            }
+            h5
+            {
+                color: blue;
+                font: optional;
+                /* background-color: red; */
+                text-align: start;
+            }
+            li
+            {
+                color: silver;
+                /* background-color: black; */
+                font:icon;
+            }
+
+            *
+            {
+                background-color:#2f2fa2 ;
+            }
+
+            h1,p,h2,h3,h4,table
+            {
+                color: white;
+            }
+
+            table
+            {
+                color: #F64C72;
+            }
+
+
+            th
+            {
+                color: #5cdb95;
+            }
+            tr
+            {   
+                color: aqua;
+                background-color: #F64C72;
+            }
+
+            :placeholder-shown
+            {
+                color: blanchedalmond;
+            }
+            li
+            {
+                color: lime;
+            }
+            legend{
+                color: crimson;
+            }
+            th
+            {
+                color: darkorange; background-color: brown;
+                font: bold;
+            }
+
+            
+

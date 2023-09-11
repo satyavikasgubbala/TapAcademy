@@ -1,0 +1,56 @@
+body
+{
+    background:gold;
+}
+
+h1
+{
+    color: aqua;
+    font-family: cursive;
+}
+p
+{
+    background-color: blue;
+}
+span
+{
+    background-color: black;
+}
+#in
+{
+    background-color: aliceblue;
+}
+
+p,h1,span
+{
+    background-color: white;
+}
+
+h3
+{
+    background-color: black;
+}
+.max
+{
+    font-family: monospace;
+}
+.max1
+{
+    background-color: chartreuse;
+}
+#cs.ms
+{
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1~p
+{
+    background-color: aqua;
+
+    color: blue;
+
+}
+
+
+
